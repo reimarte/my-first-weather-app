@@ -105,3 +105,19 @@ h6 {
   margin: 0px;
   font-weight: 800;
 }
+
+.link-to-gh {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.link-to-gh li {
+  display: inline-block;
+}
+.socials {
+  text-decoration: none;
+}
+.socials:hover {
+  color: 7F8487;
+}
